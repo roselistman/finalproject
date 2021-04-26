@@ -2,6 +2,8 @@
 
 # Video link: https://youtu.be/70nyahAZ4-8
 
+# File Title = proj.py
+
 # Other notes about the game:
 I couldn't get to every move in the overview so I wanted to also note that the game works for splits, so if you split you will then play with 2 hands and your bet will be doubled. Also, if the player busts, or gets blackjack, the game will stop prompting for moves and will move on to the dealer.
 
